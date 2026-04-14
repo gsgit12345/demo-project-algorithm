@@ -12,14 +12,13 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
     <modules>
-        <module>demo-algorithmn-question</module>
         <module>java-algorithmn-question</module>
     </modules>
 
     <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>17</maven.compiler.source>
-    <maven.compiler.target>17</maven.compiler.target>
+    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>
   </properties>
 
   <dependencies>
@@ -45,9 +44,8 @@
               <groupId>org.apache.maven.plugins</groupId>
               <artifactId>maven-compiler-plugin</artifactId>
               <configuration>
-                  <source>17</source>
-                  <target>17</target>
-                  <compilerArgs>--enable-preview</compilerArgs>
+                  <source>21</source>
+                  <target>21</target>
               </configuration>
           </plugin>
       </plugins>

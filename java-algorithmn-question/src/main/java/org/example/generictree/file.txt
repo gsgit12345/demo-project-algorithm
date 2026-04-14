@@ -1,0 +1,15 @@
+
+
+ int array[] = {10, 20, -1, 30, 50, -1, 60, -1, -1, 40, -1, -1};
+
+        10
+      /  |  \
+     20  30   40
+        /  \
+       50   60
+
+
+
+BFS --  BFS (Level Order Traversal): it is implemented using ArrayDequeue
+
+DFS   ---using recursion or statck

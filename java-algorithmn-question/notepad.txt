@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=MhpRvvdRBqY&list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_
+
+
+
+https://www.youtube.com/watch?v=XV1ADVV6FbQ&list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4&index=2    --binary tree
+
+
+https://www.youtube.com/watch?v=t0r04fYdT7U&list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v   --graph
+
+
+
+For UML class diagrams → use Visual Paradigm or diagrams.net
+
+For flowcharts → draw.io (diagrams.net) or Excalidraw
+
+For system architecture diagrams → draw.io or Lucidchart
