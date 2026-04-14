@@ -1,0 +1,47 @@
+Binary to decimal:--if MSB is 0 then convert and add positive sign
+
+if MSB is one --then Two's complement and - sign
+
+Decimal to binary :--for positive  convert and fits into bit
+
+                   for negative:--leave the sign
+                                  convert
+                                  Two's complement
+                                  fit into bit
+
+    Bit wise operator
+
+    Or --|
+    and --&
+    XOR --^
+    Left shift -- <<
+    right shift -- >>
+    tripple shift -- >>>
+    one's complement
+    for two's complement put the minus sign before a number like -x
+
+    Right most set bit :--The first 1 bit from right side
+    like for 18 --10010
+    Right Most set bit --00010  which 2 in decimal
+
+what is setbits :-setbits are those bit in integer (binary format) where 1 is appear.so total number of 1 in binary
+formate
+
+
+
+1-problem solving pattern
+1-Prefix Sum
+2- Two Pointers
+3. Sliding Window
+4. Fast & Slow Pointers
+5. LinkedList In-place Reversal
+6. Monotonic Stack
+7. Top ‘K’ Elements
+8. Overlapping Intervals
+9. Modified Binary Search
+10. Binary Tree Traversal
+11. Depth-First Search (DFS)
+12. Breadth-First Search (BFS)
+13. Matrix Traversal
+14. Backtracking
+15. Dynamic Programming Patterns

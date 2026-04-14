@@ -1,0 +1,217 @@
+✅ 1. Basic Graph Traversal (VERY IMPORTANT 🔥)
+
+👉 Asked in almost every interview
+
+BFS traversal
+DFS traversal
+Print all paths from source to destination
+Check if graph is connected
+Count connected components
+Find mother vertex
+✅ 2. Matrix / Grid Based Problems (SUPER IMPORTANT 🔥)
+
+👉 Most asked category
+
+Number of Islands
+Number of Provinces
+Rotting Oranges
+Flood Fill
+Surrounded Regions
+Shortest Path in Binary Matrix
+Pacific Atlantic Water Flow
+✅ 3. Cycle Detection
+
+👉 Very common
+
+Detect cycle in undirected graph
+Detect cycle in directed graph
+Redundant Connection
+✅ 4. Topological Sort (IMPORTANT)
+
+👉 Used in dependency problems
+
+Course Schedule
+Course Schedule II
+Alien Dictionary
+Find order of tasks
+✅ 5. Shortest Path Algorithms 🔥
+
+👉 Very high frequency
+
+Dijkstra Algorithm
+Bellman-Ford
+Shortest Path in DAG
+Network Delay Time
+Cheapest Flights Within K Stops
+✅ 6. Minimum Spanning Tree (MST)
+
+👉 Medium frequency
+
+Kruskal Algorithm
+Prim Algorithm
+Connecting Cities Minimum Cost
+✅ 7. Union-Find (Disjoint Set) 🔥
+
+👉 VERY IMPORTANT (hidden pattern)
+
+Number of Provinces
+Number of Islands (UF version)
+Redundant Connection
+Accounts Merge
+✅ 8. Graph Cloning / Copy
+Clone Graph
+✅ 9. Advanced DFS / Backtracking
+
+👉 Slightly harder
+
+Hamiltonian Path (rare)
+All paths from source to target
+Word Search
+Rat in Maze
+✅ 10. Bipartite Graph
+
+👉 Frequently asked
+
+Check if graph is bipartite
+Possible Bipartition
+✅ 11. Strongly Connected Components
+Kosaraju Algorithm
+Tarjan Algorithm
+✅ 12. Bridges & Articulation Points (Advanced)
+Critical Connections in Network
+Find bridges in graph
+🔥 MOST IMPORTANT (TOP 15 MUST DO)
+
+If you focus only on these, you’ll clear most interviews:
+
+BFS / DFS
+Number of Islands
+Number of Provinces
+Cycle detection (both types)
+Topological Sort
+Course Schedule
+Dijkstra
+Network Delay Time
+Union-Find basics
+Redundant Connection
+Clone Graph
+Bipartite Graph
+Flood Fill
+Rotten Oranges
+Shortest Path in Grid
+
+
+
+
+
+
+
+
+1. Number of Islands ⭐⭐⭐
+DFS/BFS basic
+Must do
+2. Flood Fill
+DFS basics
+3. Find if Path Exists in Graph
+Basic traversal
+4. Max Area of Island
+DFS + counting
+5. Number of Provinces ⭐⭐⭐
+Graph + DFS
+✅ 🟡 MEDIUM (MOST IMPORTANT 🔥)
+🔹 Traversal + Components
+6. Clone Graph ⭐⭐⭐
+Graph copy
+7. Number of Connected Components
+DFS / Union-Find
+🔹 Grid Problems (VERY IMPORTANT)
+8. Rotten Oranges ⭐⭐⭐
+BFS
+9. Surrounded Regions ⭐⭐⭐
+DFS boundary
+10. Pacific Atlantic Water Flow ⭐⭐⭐
+Reverse DFS
+11. Shortest Path in Binary Matrix ⭐⭐⭐
+BFS
+🔹 Cycle Detection
+12. Course Schedule ⭐⭐⭐
+Detect cycle (directed)
+13. Course Schedule II ⭐⭐⭐
+Topological sort
+🔹 Topological Sort
+14. Alien Dictionary ⭐⭐⭐
+Very famous
+🔹 Shortest Path
+15. Network Delay Time ⭐⭐⭐
+Dijkstra
+16. Cheapest Flights Within K Stops ⭐⭐⭐
+Modified BFS/Dijkstra
+🔹 Bipartite
+17. Is Graph Bipartite? ⭐⭐⭐
+🔹 Union-Find (VERY IMPORTANT)
+18. Redundant Connection ⭐⭐⭐
+19. Accounts Merge ⭐⭐⭐
+✅ 🔴 HARD (SELECTIVE BUT POWERFUL)
+🔹 Advanced Graph
+20. Word Ladder ⭐⭐⭐
+BFS + shortest path
+21. Word Ladder II
+Hard BFS
+22. Critical Connections in a Network ⭐⭐⭐
+Bridges (Tarjan)
+23. Reconstruct Itinerary ⭐⭐⭐
+Graph + backtracking
+24. Minimum Cost to Connect All Points
+MST (Prim/Kruskal)
+25. Swim in Rising Water
+Dijkstra variant
+26. Path With Minimum Effort ⭐⭐⭐
+Dijkstra
+27. Evaluate Division
+Graph + DFS
+28. All Paths From Source to Target
+DFS
+29. Eventual Safe States
+Reverse graph
+30. Detonate the Maximum Bombs
+Graph + DFS
+🔥 PRIORITY ORDER (VERY IMPORTANT)
+
+If you have less time:
+
+🚀 Must Do First (TOP 10)
+Number of Islands
+Rotten Oranges
+Course Schedule
+Clone Graph
+Network Delay Time
+Redundant Connection
+Surrounded Regions
+Bipartite Graph
+Cheapest Flights
+Provinces
+📊 Pattern Breakdown
+Pattern	Questions
+DFS/BFS	12+
+Grid problems	8+
+Shortest path	5+
+Union-Find	3+
+Topological sort	3+
+🎯 How to Study (BEST STRATEGY)
+
+👉 Follow this order:
+
+DFS / BFS
+Grid problems
+Cycle detection
+Topological sort
+Dijkstra
+Union-Find
+👍 Final Advice (For YOU)
+
+Since you are:
+
+Java developer
+Backend + system design
+
+👉 This list is more than enough to crack interviews

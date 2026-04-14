@@ -1,0 +1,170 @@
+“Graphs are broadly classified into directed and undirected. Further, they can be weighted/unweighted, cyclic/acyclic,
+and special types like DAG, tree, and complete graphs.”
+
+✅ 1. Directed Graph
+  👉 Meaning
+
+  Edges have a direction
+
+  A → B
+  You can go A → B
+  You cannot go B → A
+
+  🌍 Example
+  Twitter follow
+  One-way road
+
+  ✅ 2. Undirected Graph
+  👉 Meaning
+
+  Edges work both ways
+
+  A ↔ B
+  A → B
+  B → A
+
+  🌍 Example
+  Friendship
+  Two-way road
+
+  ✅ 3. Weighted Graph
+  👉 Meaning
+
+  Each edge has a weight (cost/distance/time)
+
+  A --(10)-- B
+
+  🌍 Example
+  Distance between cities
+  Network latency
+
+  ✅ 4. Unweighted Graph
+  👉 Meaning
+
+  Only connection matters, no weight
+
+  A ----- B
+
+  🌍 Example
+  Social connections
+  Simple relationships
+
+  ✅ 5. Cyclic Graph
+  👉 Meaning
+
+  Contains a cycle (loop)
+
+  0 → 1 → 2 → 0
+
+  👉 You can come back to same node
+
+  🌍 Example
+  Road loops
+  Network routing
+
+  ✅ 6. Acyclic Graph
+  👉 Meaning
+
+  No cycles
+
+  0 → 1 → 2
+
+  👉 You cannot return to starting node
+
+  ✅ 7. DAG (Directed Acyclic Graph) 🔥
+  👉 Meaning
+  Directed + No cycle
+  A → B → C
+  🌍 Example
+  Task scheduling
+  Build tools (Maven lifecycle)
+
+  👉 VERY IMPORTANT in interviews
+  ✅ 8. Tree (Special Graph) 🌳
+  👉 Meaning
+  Connected
+  No cycles
+  n nodes → n-1 edges
+      A
+     / \
+    B   C
+  🌍 Example
+  File system
+  Organization hierarchy
+
+  ✅ 9. Complete Graph
+  👉 Meaning
+
+  Every node connects to every other node
+
+  A ↔ B
+  A ↔ C
+  B ↔ C
+  🌍 Example
+  Fully connected network
+
+  ✅ 10. Disconnected Graph
+  👉 Meaning
+
+  Some nodes are not connected
+
+  A --- B      C --- D
+
+  👉 Two separate components
+
+  ✅ 11. Connected Graph
+  👉 Meaning
+
+  Every node is reachable from any node
+
+  A --- B --- C --- D
+
+  | Type         | Key Idea             |
+  | ------------ | -------------------- |
+  | Directed     | One-way              |
+  | Undirected   | Two-way              |
+  | Weighted     | Has cost             |
+  | Unweighted   | No cost              |
+  | Cyclic       | Has loop             |
+  | Acyclic      | No loop              |
+  | DAG          | Directed + No cycle  |
+  | Tree         | No cycle + connected |
+  | Complete     | All nodes connected  |
+  | Connected    | All reachable        |
+  | Disconnected | Some nodes isolated  |
+
+🔥 Easy Way to Remember
+
+👉 Vertex = Point / Node
+👉 Edge = Line / Connection
+
+a--------b      here a and b are node or vertex and  line is the edge which connects a and b
+
+“A vertex is a node in a graph representing an entity, and edges represent relationships between vertices.”
+“What is a self-loop?”
+“An edge where source and destination are the same vertex. that is called self loop graph ”
+
+👉 A Hamiltonian Path is:
+A path in a graph that visits every vertex exactly once
+
+for example
+0 — 1 — 2 — 3    --this is the hamiltonian path becase it visits all vertices only once
+
+0 → 1 → 2 → 1 → 3   --here one is repeated so it is not hamiltonian path
+
+Hamiltonian Cycle
+0 → 1 → 2 → 3 → 0     this hamiltonian cycle because it reached at beginning Same + return to start
+
+
+question on cyclic graph
+
+Graph Valid Tree
+Course Schedule
+Course Schedule II
+Redundant Connection
+Redundant Connection II
+Alien Dictionary
+Minimum Height Trees
+Find Eventual Safe States
+Detect Cycles in 2D Grid
+Longest Cycle in a Graph
