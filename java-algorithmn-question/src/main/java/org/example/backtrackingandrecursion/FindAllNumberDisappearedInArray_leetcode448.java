@@ -1,0 +1,13 @@
+package org.example.backtrackingandrecursion;
+
+public class FindAllNumberDisappearedInArray_leetcode448 {
+    public static void main(String str[])
+    {
+        int []nums = {4,3,2,7,8,2,3,1};
+       // Output: [5,6]
+        int nums1[] = {1,1};
+        //Output: [2]
+
+
+    }
+}

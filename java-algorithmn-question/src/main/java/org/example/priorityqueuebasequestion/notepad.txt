@@ -1,0 +1,57 @@
+🟢 Easy Level
+Kth Largest Element in a Stream
+Last Stone Weight
+Relative Ranks
+🟡 Medium Level (VERY IMPORTANT)
+Kth Largest Element in an Array ⭐
+Top K Frequent Elements ⭐🔥
+Top K Frequent Words
+Find K Closest Elements
+K Closest Points to Origin ⭐
+Sort Characters By Frequency
+Reorganize String ⭐
+Task Scheduler ⭐
+Furthest Building You Can Reach
+🔴 Hard Level (Advanced / FAANG)
+Merge k Sorted Lists ⭐🔥
+Find Median from Data Stream ⭐🔥
+Sliding Window Median
+Minimum Cost to Hire K Workers
+IPO
+Trapping Rain Water II
+🧠 🔥 Pattern-Based Grouping
+🎯 Top K Problems
+347 (Top K Frequent)
+692 (Top K Words)
+973 (K Closest Points)
+🎯 Kth Element Problems
+215 (Kth Largest)
+703 (Stream version)
+🎯 Scheduling / Greedy
+621 (Task Scheduler)
+502 (IPO)
+🎯 Heap + Graph
+Dijkstra (not direct LC but used in many problems)
+407 (Trapping Rain Water II)
+🎯 Two Heap Problems
+295 (Median from stream) ⭐🔥
+🚀 MUST DO (Shortlist for You)
+
+Since you're targeting strong roles:
+
+👉 Focus on these 7 first:
+
+215
+347
+973
+621
+23
+295
+767
+🎯 Interview Reality
+
+👉 Priority Queue is used in:
+
+Amazon → Top K, scheduling
+Google → Heap + graph
+Microsoft → Median / Kth problems
