@@ -1,0 +1,403 @@
+How does binary search scale for huge datasets?
+Binary search in distributed systems
+Binary search on databases/indexes
+How does B-Tree relate to binary search?
+Binary search in search engines
+Binary search in caching systems
+How do databases optimize searching?
+Binary search on logs/time-series
+Binary search in rate limiting systems
+How does binary search work in load balancing?
+
+Capacity to ship packages within D days
+Median of two sorted arrays
+Aggressive cows
+Allocate books/pages
+Search in rotated sorted array
+Peak element
+Koko eating bananas
+Find duplicate number
+Search suggestion system
+Search in mountain array
+
+Median of two sorted arrays
+kth element of two sorted arrays
+Minimize max pair difference
+Maximum average subarray II
+Find duplicate number
+Find missing number in sorted array
+Search in nearly sorted array
+Find single element in sorted array
+Random pick with weight
+LIS using binary search
+
+
+7. Infinite Array Questions
+Search in infinite sorted array
+First occurrence in infinite array
+Find position of target in stream
+Infinite binary array problem
+Search in unknown size array
+Unbounded binary search
+Exponential search
+Infinite window expansion
+Streaming search problem
+Dynamic array binary search
+
+6. Matrix Binary Search Questions
+Search in sorted matrix
+Search in row-wise sorted matrix
+Search in fully sorted matrix
+Median of row-wise sorted matrix
+Find kth smallest element in matrix
+Search 2D matrix II
+Peak element in matrix
+Count negatives in sorted matrix
+Binary search in infinite matrix
+Sorted matrix flattening
+
+
+5. Binary Search on Answer Questions
+
+Very important for big companies.
+
+Aggressive cows
+Allocate minimum pages
+Painter partition problem
+Ship packages within D days
+Koko eating bananas
+Minimum days to make bouquets
+Split array largest sum
+Capacity to ship packages
+Smallest divisor given threshold
+Minimize maximum distance between gas stations
+
+
+4. Peak Element Questions
+Find peak element
+Mountain array peak
+Bitonic array search
+Maximum in bitonic array
+Search in bitonic array
+Local minima problem
+Find transition point
+Peak in 2D matrix
+First bad version
+Find stable point
+
+
+3. Rotated Sorted Array Questions
+Search in rotated sorted array
+Find minimum in rotated sorted array
+Find rotation count
+Search with duplicates in rotated array
+Find pivot element
+Find peak in rotated array
+Circular sorted array search
+Minimum element with duplicates
+Rotation point in array
+Search target in infinite rotated stream
+
+
+2. Lower Bound / Upper Bound Questions
+Find first occurrence of element
+Find last occurrence of element
+Count frequency of element in sorted array
+Find lower bound
+Find upper bound
+Search insert position
+Find floor of number
+Find ceil of number
+Find nearest element
+Find predecessor and successor
+
+
+1. Basic Binary Search Questions
+Implement Binary Search
+Recursive Binary Search
+Iterative Binary Search
+Find element in sorted array
+Time complexity of Binary Search
+Why Binary Search requires sorted data?
+Difference between linear search and binary search
+Overflow issue in mid calculation
+Best/Worst case complexity
+Binary Search on descending array
+
+
+
+leetcode question
+
+
+| LeetCode No. | Problem Name                                            |
+| ------------ | ------------------------------------------------------- |
+| 704          | Binary Search                                           |
+| 35           | Search Insert Position                                  |
+| 278          | First Bad Version                                       |
+| 374          | Guess Number Higher or Lower                            |
+| 69           | Sqrt(x)                                                 |
+| 367          | Valid Perfect Square                                    |
+| 441          | Arranging Coins                                         |
+| 852          | Peak Index in a Mountain Array                          |
+| 744          | Find Smallest Letter Greater Than Target                |
+| 1351         | Count Negative Numbers in a Sorted Matrix               |
+| 34           | Find First and Last Position of Element in Sorted Array |
+| 33           | Search in Rotated Sorted Array                          |
+| 81           | Search in Rotated Sorted Array II                       |
+| 153          | Find Minimum in Rotated Sorted Array                    |
+| 154          | Find Minimum in Rotated Sorted Array II                 |
+| 162          | Find Peak Element                                       |
+| 540          | Single Element in a Sorted Array                        |
+| 74           | Search a 2D Matrix                                      |
+| 240          | Search a 2D Matrix II                                   |
+| 875          | Koko Eating Bananas                                     |
+| 1011         | Capacity To Ship Packages Within D Days                 |
+| 410          | Split Array Largest Sum                                 |
+| 1283         | Find the Smallest Divisor Given a Threshold             |
+| 1482         | Minimum Number of Days to Make m Bouquets               |
+| 1552         | Magnetic Force Between Two Balls                        |
+| 981          | Time Based Key Value Store                              |
+| 1146         | Snapshot Array                                          |
+| 528          | Random Pick with Weight                                 |
+| 911          | Online Election                                         |
+| 1268         | Search Suggestions System                               |
+| 658          | Find K Closest Elements                                 |
+| 4            | Median of Two Sorted Arrays                             |
+| 300          | Longest Increasing Subsequence                          |
+| 354          | Russian Doll Envelopes                                  |
+| 475          | Heaters                                                 |
+| 275          | H-Index II                                              |
+| 287          | Find the Duplicate Number                               |
+| 2300         | Successful Pairs of Spells and Potions                  |
+| 1095         | Find in Mountain Array                                  |
+| 1898         | Maximum Number of Removable Characters                  |
+| 719          | Find K-th Smallest Pair Distance                        |
+| 1231         | Divide Chocolate                                        |
+| 2187         | Minimum Time to Complete Trips                          |
+| 2064         | Minimized Maximum of Products Distributed to Any Store  |
+| 2141         | Maximum Running Time of N Computers                     |
+| 668          | Kth Smallest Number in Multiplication Table             |
+| 378          | Kth Smallest Element in a Sorted Matrix                 |
+| 222          | Count Complete Tree Nodes                               |
+| 875          | Koko Eating Bananas                                     |
+| 1760         | Minimum Limit of Balls in a Bag                         |
+| 2517         | Maximum Tastiness of Candy Basket                       |
+| 1901         | Find a Peak Element II                                  |
+| 704          | Binary Search (Iterative/Recursive)                     |
+| 744          | Next Greatest Letter                                    |
+| 852          | Mountain Array Peak                                     |
+| 1539         | Kth Missing Positive Number                             |
+| 34           | First and Last Occurrence                               |
+| 540          | Single Element in Sorted Array                          |
+| 74           | Search Matrix                                           |
+| 240          | Search Matrix II                                        |
+| 278          | First Bad Version                                       |
+| 35           | Insert Position                                         |
+| 162          | Peak Element                                            |
+| 81           | Rotated Array with Duplicates                           |
+| 33           | Rotated Array Search                                    |
+| 153          | Minimum in Rotated Array                                |
+| 154          | Minimum in Rotated Array II                             |
+
+
+
+| LeetCode No. | Problem                        |
+| ------------ | ------------------------------ |
+| 33           | Search in Rotated Sorted Array |
+| 4            | Median of Two Sorted Arrays    |
+| 875          | Koko Eating Bananas            |
+| 1011         | Capacity To Ship Packages      |
+| 410          | Split Array Largest Sum        |
+| 34           | First and Last Position        |
+| 162          | Find Peak Element              |
+| 74           | Search Matrix                  |
+| 153          | Find Minimum Rotated Array     |
+| 287          | Find Duplicate Number          |
+
+
+| LeetCode No. | Problem                          |
+| ------------ | -------------------------------- |
+| 875          | Koko Eating Bananas              |
+| 1011         | Capacity To Ship Packages        |
+| 410          | Split Array Largest Sum          |
+| 1482         | Minimum Days to Make Bouquets    |
+| 1552         | Magnetic Force Between Two Balls |
+| 1283         | Smallest Divisor Given Threshold |
+| 2187         | Minimum Time to Complete Trips   |
+| 1760         | Minimum Limit of Balls in Bag    |
+| LeetCode No. | Problem                                 |
+| ------------ | --------------------------------------- |
+| 33           | Search in Rotated Sorted Array          |
+| 81           | Search in Rotated Sorted Array II       |
+| 153          | Find Minimum in Rotated Sorted Array    |
+| 154          | Find Minimum in Rotated Sorted Array II |
+
+
+
+| LeetCode No. | Problem                      |
+| ------------ | ---------------------------- |
+| 162          | Find Peak Element            |
+| 852          | Peak Index in Mountain Array |
+| 1095         | Find in Mountain Array       |
+| 1901         | Find Peak Element II         |
+
+
+| LeetCode No. | Problem                               |
+| ------------ | ------------------------------------- |
+| 74           | Search a 2D Matrix                    |
+| 240          | Search a 2D Matrix II                 |
+| 378          | Kth Smallest Element in Sorted Matrix |
+| 1901         | Find Peak Element II                  |
+
+
+| LeetCode No. | Problem                             |
+| ------------ | ----------------------------------- |
+| 34           | First and Last Position             |
+| 35           | Search Insert Position              |
+| 744          | Smallest Letter Greater Than Target |
+| 275          | H-Index II                          |
+
+
+| Pattern                 | LeetCode |
+| ----------------------- | -------- |
+| Simple Binary Search    | 704      |
+| Boundary Search         | 34       |
+| Rotated Array           | 33       |
+| Peak Search             | 162      |
+| Binary Search on Answer | 875      |
+| Matrix Search           | 74       |
+| Infinite Search Style   | 702      |
+| Median Problems         | 4        |
+
+
+
+Best Preparation Order
+704 → Basic Binary Search
+35 → Insert Position
+34 → First/Last Occurrence
+33 → Rotated Array
+153 → Minimum Rotated Array
+162 → Peak Element
+74 → Matrix Search
+875 → Koko Eating Bananas
+1011 → Ship Packages
+410 → Split Array Largest Sum
+4 → Median of Two Sorted Arrays
+
+
+| Pattern                   | Questions |
+| ------------------------- | --------- |
+| Basic Binary Search       | 704       |
+| Boundary Search           | 34        |
+| Rotated Array             | 33        |
+| Peak Search               | 162       |
+| Binary Search on Answer   | 875       |
+| Matrix Search             | 74        |
+| Advanced Partition Search | 4         |
+
+
+33
+34
+875
+1011
+410
+74
+Google
+4
+33
+162
+875
+300
+Microsoft
+34
+153
+74
+278
+540
+Meta
+33
+4
+875
+162
+
+
+| LeetCode No. | Problem                               |
+| ------------ | ------------------------------------- |
+| 74           | Search a 2D Matrix                    |
+| 240          | Search a 2D Matrix II                 |
+| 378          | Kth Smallest Element in Sorted Matrix |
+
+
+| LeetCode No. | Problem                      |
+| ------------ | ---------------------------- |
+| 162          | Find Peak Element            |
+| 852          | Peak Index in Mountain Array |
+| 1095         | Find in Mountain Array       |
+
+
+| LeetCode No. | Problem                                  |
+| ------------ | ---------------------------------------- |
+| 34           | Find First and Last Position             |
+| 35           | Search Insert Position                   |
+| 278          | First Bad Version                        |
+| 744          | Find Smallest Letter Greater Than Target |
+
+
+| LeetCode No. | Problem                                 |
+| ------------ | --------------------------------------- |
+| 33           | Search in Rotated Sorted Array          |
+| 81           | Search in Rotated Sorted Array II       |
+| 153          | Find Minimum in Rotated Sorted Array    |
+| 154          | Find Minimum in Rotated Sorted Array II |
+
+
+
+| LeetCode No. | Problem                          |
+| ------------ | -------------------------------- |
+| 875          | Koko Eating Bananas              |
+| 1011         | Capacity To Ship Packages        |
+| 410          | Split Array Largest Sum          |
+| 1482         | Minimum Days to Make Bouquets    |
+| 1283         | Smallest Divisor Given Threshold |
+| 1552         | Magnetic Force Between Two Balls |
+| 2187         | Minimum Time to Complete Trips   |
+| 1760         | Minimum Limit of Balls in a Bag  |
+
+
+| LeetCode No. | Problem                        |
+| ------------ | ------------------------------ |
+| 33           | Search in Rotated Sorted Array |
+| 875          | Koko Eating Bananas            |
+| 1011         | Capacity To Ship Packages      |
+| 410          | Split Array Largest Sum        |
+| 34           | First and Last Position        |
+| 4            | Median of Two Sorted Arrays    |
+| 162          | Find Peak Element              |
+| 74           | Search Matrix                  |
+| 153          | Find Minimum Rotated Array     |
+| 540          | Single Element in Sorted Array |
+
+
+
+| LeetCode No. | Problem Name                            | Pattern                  |
+| ------------ | --------------------------------------- | ------------------------ |
+| 704          | Binary Search                           | Basic Binary Search      |
+| 35           | Search Insert Position                  | Boundary Search          |
+| 34           | Find First and Last Position of Element | First/Last Occurrence    |
+| 33           | Search in Rotated Sorted Array          | Rotated Array            |
+| 81           | Search in Rotated Sorted Array II       | Rotated + Duplicates     |
+| 153          | Find Minimum in Rotated Sorted Array    | Rotated Array            |
+| 154          | Find Minimum in Rotated Sorted Array II | Rotated + Duplicates     |
+| 162          | Find Peak Element                       | Peak Element             |
+| 74           | Search a 2D Matrix                      | Matrix Binary Search     |
+| 240          | Search a 2D Matrix II                   | Matrix Search            |
+| 875          | Koko Eating Bananas                     | Binary Search on Answer  |
+| 1011         | Capacity To Ship Packages Within D Days | Binary Search on Answer  |
+| 410          | Split Array Largest Sum                 | Binary Search on Answer  |
+| 4            | Median of Two Sorted Arrays             | Advanced Binary Search   |
+| 278          | First Bad Version                       | Boundary Search          |
+| 69           | Sqrt(x)                                 | Binary Search on Numbers |
+| 367          | Valid Perfect Square                    | Binary Search            |
+| 540          | Single Element in a Sorted Array        | Modified Binary Search   |
+| 287          | Find the Duplicate Number               | Binary Search on Answer  |
+| 300          | Longest Increasing Subsequence          | Binary Search + DP       |

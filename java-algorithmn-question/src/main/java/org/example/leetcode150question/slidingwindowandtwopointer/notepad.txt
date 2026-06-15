@@ -1,0 +1,12 @@
+| Pattern        | Problems                 |
+| -------------- | ------------------------ |
+| KMP / LPS      | LeetCode 28              |
+| Sliding Window | LeetCode 3, 76, 209, 424 |
+| Two Pointers   | LeetCode 392, 125, 167   |
+| Trie           | LeetCode 208, 211, 212   |
+
+
+LeetCode 159
+LeetCode 340
+LeetCode 424
+LeetCode 76

@@ -1,0 +1,114 @@
+| LeetCode | Problem                           |
+| -------- | --------------------------------- |
+| 94       | Inorder Traversal                 |
+| 144      | Preorder Traversal                |
+| 145      | Postorder Traversal               |
+| 102      | Binary Tree Level Order Traversal |
+| 107      | Level Order Traversal II          |
+| 637      | Average of Levels                 |
+| 199      | Right Side View                   |
+
+
+| LeetCode | Problem                      |
+| -------- | ---------------------------- |
+| 104      | Maximum Depth of Binary Tree |
+| 111      | Minimum Depth of Binary Tree |
+| 543      | Diameter of Binary Tree      |
+| 110      | Balanced Binary Tree         |
+| 100      | Same Tree                    |
+| 101      | Symmetric Tree               |
+| 572      | Subtree of Another Tree      |
+
+
+| LeetCode | Problem                          |
+| -------- | -------------------------------- |
+| 112      | Path Sum                         |
+| 113      | Path Sum II                      |
+| 257      | Binary Tree Paths                |
+| 129      | Sum Root to Leaf Numbers         |
+| 437      | Path Sum III ⭐                   |
+| 124      | Binary Tree Maximum Path Sum ⭐⭐⭐ |
+
+| LeetCode | Problem                            |
+| -------- | ---------------------------------- |
+| 700      | Search in BST                      |
+| 701      | Insert into BST                    |
+| 450      | Delete Node in BST                 |
+| 98       | Validate BST ⭐                     |
+| 230      | Kth Smallest Element in BST ⭐      |
+| 235      | Lowest Common Ancestor of BST      |
+| 530      | Minimum Absolute Difference in BST |
+| 783      | Minimum Distance Between BST Nodes |
+
+
+| LeetCode | Problem                                   |
+| -------- | ----------------------------------------- |
+| 236      | Lowest Common Ancestor of Binary Tree ⭐⭐⭐ |
+| 235      | Lowest Common Ancestor of BST             |
+
+
+| LeetCode | Problem                                   |
+| -------- | ----------------------------------------- |
+| 105      | Construct Tree from Preorder + Inorder ⭐  |
+| 106      | Construct Tree from Inorder + Postorder ⭐ |
+| 889      | Construct Tree from Preorder + Postorder  |
+
+
+| LeetCode | Problem                           |
+| -------- | --------------------------------- |
+| 102      | Level Order Traversal             |
+| 103      | Zigzag Level Order Traversal ⭐    |
+| 199      | Right Side View ⭐                 |
+| 515      | Largest Value in Each Row         |
+| 116      | Populating Next Right Pointers    |
+| 117      | Populating Next Right Pointers II |
+
+
+| LeetCode | Problem                                   |
+| -------- | ----------------------------------------- |
+| 297      | Serialize and Deserialize Binary Tree ⭐⭐⭐ |
+| 449      | Serialize and Deserialize BST             |
+
+
+| LeetCode | Problem                              |
+| -------- | ------------------------------------ |
+| 662      | Maximum Width of Binary Tree         |
+| 958      | Check Completeness of Binary Tree    |
+| 226      | Invert Binary Tree                   |
+| 114      | Flatten Binary Tree to Linked List ⭐ |
+| 173      | BST Iterator ⭐                       |
+| 222      | Count Complete Tree Nodes            |
+
+| LeetCode | Problem                                   |
+| -------- | ----------------------------------------- |
+| 124      | Binary Tree Maximum Path Sum ⭐⭐⭐          |
+| 297      | Serialize and Deserialize Binary Tree ⭐⭐⭐ |
+| 987      | Vertical Order Traversal ⭐⭐⭐              |
+| 863      | All Nodes Distance K in Binary Tree ⭐⭐    |
+| 1373     | Maximum Sum BST in Binary Tree            |
+| 968      | Binary Tree Cameras                       |
+| 272      | Closest K Values in BST                   |
+
+
+If you solve only 20, solve these:
+
+94 - Inorder Traversal
+144 - Preorder Traversal
+145 - Postorder Traversal
+102 - Level Order Traversal
+104 - Maximum Depth
+543 - Diameter of Binary Tree
+110 - Balanced Binary Tree
+100 - Same Tree
+101 - Symmetric Tree
+112 - Path Sum
+437 - Path Sum III
+98 - Validate BST
+230 - Kth Smallest in BST
+236 - Lowest Common Ancestor
+105 - Construct Tree from Traversals
+199 - Right Side View
+226 - Invert Binary Tree
+114 - Flatten Binary Tree
+297 - Serialize & Deserialize
+124 - Binary Tree Maximum Path Sumg

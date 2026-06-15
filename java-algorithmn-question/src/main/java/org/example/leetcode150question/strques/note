@@ -1,0 +1,52 @@
+LeetCode 151: Reverse Words in a String
+LeetCode 557: Reverse Words in a String III
+LeetCode 344: Reverse String
+LeetCode 541: Reverse String II
+LeetCode 125: Valid Palindrome
+LeetCode 680: Valid Palindrome II
+LeetCode 392: Is Subsequence
+LeetCode 28: Find the Index of the First Occurrence in a String
+LeetCode 14: Longest Common Prefix
+LeetCode 434: Number of Segments in a String
+LeetCode 58: Length of Last Word
+LeetCode 58: Length of Last Word
+LeetCode 345: Reverse Vowels of a String
+LeetCode 1768: Merge Strings Alternately
+LeetCode 415: Add Strings
+LeetCode 67: Add Binary
+LeetCode 43: Multiply Strings
+LeetCode 165: Compare Version Numbers
+LeetCode 8: String to Integer (atoi)
+LeetCode 71: Simplify Path
+LeetCode 14 → Longest Common Prefix
+LeetCode 720 → Longest Word in Dictionary
+LeetCode 3043 → Find the Length of the Longest Common Prefix
+
+
+
+
+Tier 1 (Must)
+Implement Trie
+Word Search II
+Word Break
+Longest String Chain
+Search Suggestions System
+Tier 2
+Concatenated Words
+Replace Words
+Map Sum Pairs
+Prefix and Suffix Search
+Stream of Characters
+
+
+
+question based char or string reversal
+
+344  -> Reverse String
+557  -> Reverse Words III
+151  -> Reverse Words
+186  -> Reverse Words II
+58   -> Length of Last Word
+71   -> Simplify Path
+394  -> Decode String
+68   -> Text Justification

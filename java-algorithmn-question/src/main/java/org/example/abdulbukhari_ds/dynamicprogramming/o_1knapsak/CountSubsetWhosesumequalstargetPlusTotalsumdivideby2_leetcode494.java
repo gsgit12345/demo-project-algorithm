@@ -1,0 +1,4 @@
+package org.example.abdulbukhari_ds.dynamicprogramming.o_1knapsak;
+
+public class CountSubsetWhosesumequalstargetPlusTotalsumdivideby2_leetcode494 {
+}

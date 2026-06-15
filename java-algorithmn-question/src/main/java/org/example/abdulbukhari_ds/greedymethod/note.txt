@@ -1,0 +1,60 @@
+Activity Selection
+Fractional Knapsack
+Huffman Coding
+Job Sequencing
+Minimum Platforms
+N Meetings in One Room
+Gas Station
+Jump Game
+Candy Distribution
+Merge Intervals
+
+
+| LeetCode No. | Question Name                              |
+| ------------ | ------------------------------------------ |
+| 455          | Assign Cookies                             |
+| 122          | Best Time to Buy and Sell Stock II         |
+| 860          | Lemonade Change                            |
+| 605          | Can Place Flowers                          |
+| 976          | Largest Perimeter Triangle                 |
+| 55           | Jump Game                                  |
+| 45           | Jump Game II                               |
+| 134          | Gas Station                                |
+| 763          | Partition Labels                           |
+| 406          | Queue Reconstruction by Height             |
+| 621          | Task Scheduler                             |
+| 767          | Reorganize String                          |
+| 452          | Minimum Number of Arrows to Burst Balloons |
+| 435          | Non-overlapping Intervals                  |
+| 56           | Merge Intervals                            |
+| 57           | Insert Interval                            |
+| 376          | Wiggle Subsequence                         |
+| 135          | Candy                                      |
+| 402          | Remove K Digits                            |
+| 948          | Bag of Tokens                              |
+| 871          | Minimum Number of Refueling Stops          |
+| 502          | IPO                                        |
+| 630          | Course Schedule III                        |
+| 659          | Split Array into Consecutive Subsequences  |
+| 321          | Create Maximum Number                      |
+
+
+
+| LeetCode No. | Question                          |
+| ------------ | --------------------------------- |
+| 502          | IPO                               |
+| 857          | Minimum Cost to Hire K Workers    |
+| 630          | Course Schedule III               |
+| 871          | Minimum Number of Refueling Stops |
+| 1383         | Maximum Performance of a Team     |
+| 1792         | Maximum Average Pass Ratio        |
+
+
+| Company   | Questions       |
+| --------- | --------------- |
+| Amazon    | 502, 1383, 1833 |
+| Google    | 857, 630, 1792  |
+| Meta      | 630             |
+| Uber      | 857, 871        |
+| Microsoft | 2279            |
+

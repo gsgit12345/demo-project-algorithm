@@ -1,0 +1,150 @@
+note:-Heap is the complte binary tree.it has two version min heap and max heap
+
+Basic Heap Questions
+What is a Heap?
+Difference between Min Heap and Max Heap?
+Why Heap is Complete Binary Tree?
+Why Heap uses array representation?
+What is Heap Property?
+Why insertion in heap is O(log n)?
+Why peek/root access is O(1)?
+Difference between Heap and BST?
+Difference between Priority Queue and Heap?
+Why Heap is preferred for Priority Queue?
+Heap Structure Questions
+Left child formula?
+Right child formula?
+Parent formula?
+Why indexing often starts from 1?
+Heap representation using array?
+What happens if heap is not complete?
+Maximum nodes at height h?
+Height of heap?
+Why heap height is logarithmic?
+Leaf node range in heap?
+Min Heap vs Max Heap Questions
+Min Heap	Max Heap
+Smallest at root	Largest at root
+Parent ≤ children	Parent ≥ children
+Frequently Asked Comparison Questions
+When to use Min Heap?
+When to use Max Heap?
+Why Dijkstra uses Min Heap?
+Why Top-K Largest uses Min Heap?
+Why Heap Sort uses Max Heap?
+Why Median Stream uses both heaps?
+How to convert Min Heap to Max Heap?
+Can duplicate values exist in heap?
+Is heap always sorted?
+Can heap traversal produce sorted order?
+Heap Operations Questions
+Insert into Max Heap
+Insert into Min Heap
+Delete root from heap
+Heapify up
+Heapify down
+Build heap from array
+Extract max operation
+Extract min operation
+Increase key operation
+Decrease key operation
+Important Complexity Questions
+Operation	Complexity
+Insert	O(log n)
+Delete Root	O(log n)
+Peek	O(1)
+Build Heap	O(n)
+Most Asked WHY Questions
+Why build heap is O(n) not O(n log n)?
+Why heap sort is in-place?
+Why heap sort is not stable?
+Why heap insert is logarithmic?
+Why delete operation needs heapify down?
+Why heapify works bottom-up?
+Why heaps are efficient for scheduling?
+Why heaps are used in graph algorithms?
+Why BST search better than heap search?
+Why heap is not fully sorted?
+Coding Questions on Heap
+Implement Max Heap
+Implement Min Heap
+Build Heap from Array
+Heap Sort
+kth Largest Element
+kth Smallest Element
+Merge K Sorted Arrays
+Merge K Sorted Lists
+Top K Frequent Elements
+Find Median from Data Stream
+LeetCode Heap Questions
+LeetCode No.	Problem
+215	kth Largest Element in Array
+347	Top K Frequent Elements
+295	Find Median from Data Stream
+23	Merge k Sorted Lists
+378	kth Smallest Element in Sorted Matrix
+703	kth Largest Element in Stream
+1046	Last Stone Weight
+973	K Closest Points to Origin
+692	Top K Frequent Words
+621	Task Scheduler
+Advanced Heap Questions
+Difference between Heap and Priority Queue?
+What is Fibonacci Heap?
+What is Binomial Heap?
+What is Indexed Heap?
+What is Skew Heap?
+What is Pairing Heap?
+What is d-ary Heap?
+What is Double Ended Heap?
+What is Heap Overflow?
+Why heaps are cache friendly?
+Real System Design Questions
+How does OS scheduling use heaps?
+How does Kafka use priority ordering?
+How does heap help in load balancing?
+How does Google use heaps in ranking?
+How are heaps used in event-driven systems?
+How does heap help in streaming data?
+Why heaps are used in job schedulers?
+How does heap optimize memory management?
+How does Redis use heaps internally?
+How does heap support real-time analytics?
+Heap Sort Questions
+Explain Heap Sort
+Why Heap Sort complexity is O(n log n)?
+Why Heap Sort is not stable?
+Difference between QuickSort and HeapSort?
+When HeapSort preferred over QuickSort?
+Can HeapSort be recursive?
+Why HeapSort uses Max Heap?
+How HeapSort works internally?
+Space complexity of HeapSort?
+Best case of HeapSort?
+Tricky Interview Questions
+Can heap contain duplicate elements?
+Can binary tree always be heap?
+Is complete tree always heap?
+Search complexity in heap?
+Can heap be implemented using linked list?
+Difference between complete and full binary tree?
+Why heap is not good for searching arbitrary elements?
+What is priority inversion?
+What is lazy deletion in heap?
+Explain median maintenance using two heaps.
+
+
+
+
+| LeetCode No. | Problem                               |
+| ------------ | ------------------------------------- |
+| 215          | kth Largest Element in Array          |
+| 347          | Top K Frequent Elements               |
+| 295          | Find Median from Data Stream          |
+| 23           | Merge k Sorted Lists                  |
+| 378          | kth Smallest Element in Sorted Matrix |
+| 703          | kth Largest Element in Stream         |
+| 1046         | Last Stone Weight                     |
+| 973          | K Closest Points to Origin            |
+| 692          | Top K Frequent Words                  |
+| 621          | Task Scheduler                        |
