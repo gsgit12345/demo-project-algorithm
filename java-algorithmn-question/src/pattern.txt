@@ -45,3 +45,25 @@ formate
 13. Matrix Traversal
 14. Backtracking
 15. Dynamic Programming Patterns
+
+
+1. HashMap / HashSet
+2. Two Pointers
+3. Sliding Window
+4. Prefix Sum
+5. Binary Search
+6. Stack
+7. Linked List
+8. Fast & Slow Pointer
+9. Intervals
+10. Heap / PriorityQueue
+11. Tree DFS
+12. Tree BFS
+13. Backtracking
+14. Greedy
+15. Graph DFS/BFS
+16. Dynamic Programming
+17. Topological Sort
+18. Union Find
+19. Trie
+20. Bit Manipulation

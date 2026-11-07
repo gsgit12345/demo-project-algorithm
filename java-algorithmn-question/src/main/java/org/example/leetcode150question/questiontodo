@@ -1,0 +1,285 @@
+If you're short on time, solve these first:
+
+Two Sum
+Valid Anagram
+Group Anagrams
+Longest Substring Without Repeating Characters
+3Sum
+Container With Most Water
+Product of Array Except Self
+Maximum Subarray
+Merge Intervals
+Valid Parentheses
+Daily Temperatures
+Binary Search
+Search in Rotated Sorted Array
+Reverse Linked List
+Merge Two Sorted Lists
+Linked List Cycle
+Add Two Numbers
+Maximum Depth of Binary Tree
+Binary Tree Level Order Traversal
+Validate BST
+Lowest Common Ancestor
+Number of Islands
+Course Schedule
+Clone Graph
+Kth Largest Element
+Top K Frequent Elements
+Permutations
+Combination Sum
+Subsets
+Generate Parentheses
+Climbing Stairs
+House Robber
+Coin Change
+Longest Increasing Subsequence
+Longest Common Subsequence
+Word Break
+Spiral Matrix
+Rotate Image
+Search a 2D Matrix
+LRU Cache
+Min Stack
+Insert Delete GetRandom O(1)
+Subarray Sum Equals K
+Jump Game
+Gas Station
+Implement Trie
+Word Search II
+Trapping Rain Water
+Median from Data Stream
+Edit Distance
+Recommended order for your preparation
+
+Arrays & HashMap
+Strings
+Two Pointers
+Sliding Window
+Stack
+Binary Search
+Linked List
+Trees & BST
+Heap
+Graph
+Backtracking
+Dynamic Programming
+Design Questions
+Trie
+
+
+
+Phase 1 (Easy)
+Two Sum (1)
+Two Sum II (167)
+Two Sum IV BST (653)
+Two Sum III (170)
+Two Sum Less Than K (1099)
+Phase 2 (Medium)
+3Sum (15)
+3Sum Closest (16)
+4Sum (18)
+K-diff Pairs (532)
+Count Pairs With Difference K (2006)
+Phase 3 (Advanced)
+4Sum II (454)
+3Sum Smaller (259)
+3Sum With Multiplicity (923)
+Tuple With Same Product (1726)
+Find K-th Smallest Pair Distance (719
+
+
+| #   | Problem                      | Difficulty |
+| --- | ---------------------------- | ---------- |
+| 1   | Two Sum                      | Easy       |
+| 217 | Contains Duplicate           | Easy       |
+| 219 | Contains Duplicate II        | Easy       |
+| 238 | Product of Array Except Self | Medium     |
+| 53  | Maximum Subarray             | Medium     |
+| 169 | Majority Element             | Easy       |
+| 128 | Longest Consecutive Sequence | Medium     |
+| 41  | First Missing Positive       | Hard       |
+
+
+
+| #   | Problem                             |
+| --- | ----------------------------------- |
+| 125 | Valid Palindrome                    |
+| 167 | Two Sum II                          |
+| 15  | 3Sum                                |
+| 11  | Container With Most Water           |
+| 42  | Trapping Rain Water                 |
+| 26  | Remove Duplicates from Sorted Array |
+| 27  | Remove Element                      |
+| 88  | Merge Sorted Array                  |
+
+
+| #   | Problem                                        |
+| --- | ---------------------------------------------- |
+| 3   | Longest Substring Without Repeating Characters |
+| 76  | Minimum Window Substring                       |
+| 424 | Longest Repeating Character Replacement        |
+| 567 | Permutation in String                          |
+| 438 | Find All Anagrams in a String                  |
+| 209 | Minimum Size Subarray Sum                      |
+| 904 | Fruit Into Baskets                             |
+
+
+| #   | Problem                                |
+| --- | -------------------------------------- |
+| 49  | Group Anagrams                         |
+| 242 | Valid Anagram                          |
+| 205 | Isomorphic Strings                     |
+| 290 | Word Pattern                           |
+| 14  | Longest Common Prefix                  |
+| 28  | Find the Index of the First Occurrence |
+| 151 | Reverse Words in a String              |
+
+| #   | Problem                        |
+| --- | ------------------------------ |
+| 20  | Valid Parentheses              |
+| 155 | Min Stack                      |
+| 739 | Daily Temperatures             |
+| 84  | Largest Rectangle in Histogram |
+| 394 | Decode String                  |
+| 71  | Simplify Path                  |
+
+
+
+| #   | Problem                              |
+| --- | ------------------------------------ |
+| 704 | Binary Search                        |
+| 35  | Search Insert Position               |
+| 33  | Search in Rotated Sorted Array       |
+| 153 | Find Minimum in Rotated Sorted Array |
+| 34  | Find First and Last Position         |
+| 875 | Koko Eating Bananas                  |
+
+
+
+| #   | Problem                          |
+| --- | -------------------------------- |
+| 206 | Reverse Linked List              |
+| 21  | Merge Two Sorted Lists           |
+| 141 | Linked List Cycle                |
+| 142 | Linked List Cycle II             |
+| 19  | Remove Nth Node                  |
+| 2   | Add Two Numbers                  |
+| 234 | Palindrome Linked List           |
+| 160 | Intersection of Two Linked Lists |
+
+
+
+| #   | Problem                               |
+| --- | ------------------------------------- |
+| 104 | Maximum Depth of Binary Tree          |
+| 100 | Same Tree                             |
+| 226 | Invert Binary Tree                    |
+| 101 | Symmetric Tree                        |
+| 543 | Diameter of Binary Tree               |
+| 102 | Binary Tree Level Order Traversal     |
+| 98  | Validate BST                          |
+| 230 | Kth Smallest in BST                   |
+| 235 | Lowest Common Ancestor of BST         |
+| 236 | Lowest Common Ancestor of Binary Tree |
+
+
+| #   | Problem            |
+| --- | ------------------ |
+| 200 | Number of Islands  |
+| 133 | Clone Graph        |
+| 207 | Course Schedule    |
+| 210 | Course Schedule II |
+| 994 | Rotting Oranges    |
+| 695 | Max Area of Island |
+
+
+| #   | Problem                      |
+| --- | ---------------------------- |
+| 215 | Kth Largest Element          |
+| 347 | Top K Frequent Elements      |
+| 973 | K Closest Points             |
+| 295 | Find Median from Data Stream |
+| 23  | Merge k Sorted Lists         |
+
+
+| #  | Problem              |
+| -- | -------------------- |
+| 46 | Permutations         |
+| 47 | Permutations II      |
+| 77 | Combinations         |
+| 39 | Combination Sum      |
+| 40 | Combination Sum II   |
+| 78 | Subsets              |
+| 90 | Subsets II           |
+| 17 | Letter Combinations  |
+| 22 | Generate Parentheses |
+| 51 | N-Queens             |
+
+
+
+| #    | Problem                        |
+| ---- | ------------------------------ |
+| 70   | Climbing Stairs                |
+| 198  | House Robber                   |
+| 213  | House Robber II                |
+| 322  | Coin Change                    |
+| 300  | Longest Increasing Subsequence |
+| 1143 | Longest Common Subsequence     |
+| 72   | Edit Distance                  |
+| 416  | Partition Equal Subset Sum     |
+| 139  | Word Break                     |
+| 518  | Coin Change II                 |
+
+
+| #   | Problem               |
+| --- | --------------------- |
+| 54  | Spiral Matrix         |
+| 48  | Rotate Image          |
+| 73  | Set Matrix Zeroes     |
+| 74  | Search a 2D Matrix    |
+| 240 | Search a 2D Matrix II |
+
+
+| #   | Problem                   |
+| --- | ------------------------- |
+| 56  | Merge Intervals           |
+| 57  | Insert Interval           |
+| 252 | Meeting Rooms             |
+| 253 | Meeting Rooms II          |
+| 435 | Non-overlapping Intervals |
+
+
+| #   | Problem                     |
+| --- | --------------------------- |
+| 208 | Implement Trie              |
+| 211 | Design Add and Search Words |
+| 212 | Word Search II              |
+
+
+
+| #   | Problem                      |
+| --- | ---------------------------- |
+| 146 | LRU Cache                    |
+| 155 | Min Stack                    |
+| 380 | Insert Delete GetRandom O(1) |
+| 460 | LFU Cache                    |
+| 295 | Median from Data Stream      |
+
+
+| #   | Problem                      |
+| --- | ---------------------------- |
+| 560 | Subarray Sum Equals K        |
+| 525 | Contiguous Array             |
+| 724 | Find Pivot Index             |
+| 974 | Subarray Sums Divisible by K |
+| 930 | Binary Subarrays With Sum    |
+
+
+| #   | Problem                        |
+| --- | ------------------------------ |
+| 55  | Jump Game                      |
+| 45  | Jump Game II                   |
+| 134 | Gas Station                    |
+| 763 | Partition Labels               |
+| 406 | Queue Reconstruction by Height |
